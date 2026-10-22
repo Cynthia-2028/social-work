@@ -4,31 +4,27 @@ version: "1.0.0"
 display_name: 社会工作
 display_name_en: Social Work
 description: >
-  A working knowledge base for social work across four system levels: casework with
-  individuals and families (engagement, multidimensional assessment, planning, intervention,
-  termination), group work (treatment and task groups, group dynamics, leadership, stages),
-  community and organisational practice (community development, social planning, social action,
-  asset-based practice, advocacy), and institutional/policy advocacy. Covers theory traditions and
-  twenty practice theories, ethics with dilemma decision frameworks, poverty and youth issues, Chinese governance contexts (government purchase of services, professional
-  identity), and evidence-based practice with research appraisal. Use for explaining social work
-  knowledge, interpreting social phenomena and governance problems through a social work lens,
-  answering professional questions, systematic study, developing research topics, writing papers,
-  and evaluating paper quality. Do NOT use for clinical diagnosis, medication advice, legal
-  opinions, or crisis hotlines.
+  A knowledge base for social work across four levels: casework with individuals and families
+  (engagement, assessment, planning, intervention, termination), group work (treatment and task
+  groups, dynamics, leadership, stages), community and organisational practice (community
+  development, social planning, social action, asset-based practice, advocacy), and policy
+  advocacy. Covers theory traditions, twenty practice theories, ethics with dilemma decision
+  frameworks, poverty and youth issues, Chinese governance contexts, and evidence-based practice.
+  Use to explain social work knowledge, interpret social phenomena and governance problems, answer
+  professional questions, plan study, develop research topics, write papers, and review quality.
+  Not for clinical diagnosis, medication advice, or legal opinions.
 description_zh: >
   社会工作知识库与工作流，覆盖四层系统：①个案与家庭（接案、多维预估、目标与契约、介入、结案）；②小组（治疗组与任务组、小组动力、领导、阶段）；③社区与组织（社区发展、社会规划、社会行动、资产为本、机构内工作）；④制度与政策（倡导光谱、政策实践）。含理论传统与二十余个实践理论、价值与伦理（伦理困境决策框架）、贫困与青少年等议题、中国治理语境（政府购买服务、专业身份、社工站）、证据为本实践与研究评估。用于社会工作知识科普、运用社会工作知识解读社会现象与治理难题、解答专业问题、系统学习知识点、探讨研究选题、撰写论文、评估论文质量。常见提问涉及个案工作、面谈技巧、共情、预估、介入计划、结案、小组动力、小组领导、社区营造、资产为本、社会工作行政、督导、伦理困境、保密、自决、优势视角、生态系统、赋权、倡导、证据为本、干预效果、量表、需求评估、政府购买服务、社工站。不用于：临床诊断与用药建议、法律意见、心理危机热线替代。
 description_en: >
-  A working knowledge base for social work across four system levels: casework with
-  individuals and families (engagement, multidimensional assessment, planning, intervention,
-  termination), group work (treatment and task groups, group dynamics, leadership, stages),
-  community and organisational practice (community development, social planning, social action,
-  asset-based practice, advocacy), and institutional/policy advocacy. Covers theory traditions and
-  twenty practice theories, ethics with dilemma decision frameworks, poverty and youth issues, Chinese governance contexts (government purchase of services, professional
-  identity), and evidence-based practice with research appraisal. Use for explaining social work
-  knowledge, interpreting social phenomena and governance problems through a social work lens,
-  answering professional questions, systematic study, developing research topics, writing papers,
-  and evaluating paper quality. Do NOT use for clinical diagnosis, medication advice, legal
-  opinions, or crisis hotlines.
+  A knowledge base for social work across four levels: casework with individuals and families
+  (engagement, assessment, planning, intervention, termination), group work (treatment and task
+  groups, dynamics, leadership, stages), community and organisational practice (community
+  development, social planning, social action, asset-based practice, advocacy), and policy
+  advocacy. Covers theory traditions, twenty practice theories, ethics with dilemma decision
+  frameworks, poverty and youth issues, Chinese governance contexts, and evidence-based practice.
+  Use to explain social work knowledge, interpret social phenomena and governance problems, answer
+  professional questions, plan study, develop research topics, write papers, and review quality.
+  Not for clinical diagnosis, medication advice, or legal opinions.
 ---
 
 # 社会工作（Social Work）
